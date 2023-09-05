@@ -1,2 +1,1 @@
-# Weather-Application-React
-Weather Application React
+# Weather Forecast App
